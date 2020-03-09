@@ -1,0 +1,17 @@
+'use strict'
+
+var user = prompt('First things first, What\'s you\'re name?');
+
+
+alert('Thanks ' + user + ' ! Let\'s get started!');
+
+// First Number
+var num1 = parseInt(prompt('Enter first number: '));
+
+// Second Number
+var num2 = parseInt(prompt('Enter second number: '));
+
+var sum = num1 + num2;
+
+alert(' Hi, ' + user + "!" + ' The sum of ' + num1 + ' + ' + num2 + ' is ' + sum)
+
