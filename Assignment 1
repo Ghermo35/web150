@@ -1,0 +1,5 @@
+function Add(x, y) {
+  var sum = x + y;
+  console.log('The sum of ' + x + ' + ' + y + ' is: ' + sum);
+}
+Add(5, 6);
