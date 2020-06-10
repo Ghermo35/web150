@@ -1,8 +1,7 @@
-'use strict'
-/* The script is placed inside an immediately invoked function expression
-   which helps protect the scope of variables */
+
 
    //constructor notation with properties and methods
+
 function Car (make, model, year, color){
     this.make = make;
     this.model = model;
